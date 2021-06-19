@@ -21,3 +21,10 @@
 
 ![lot_summary.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.PNG)
 
+## T-Tests on Suspension Coils
+
+
+![T_test_all_lots.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/T_test_all_lots.PNG)
+![lot1.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot1.PNG)
+![lot2.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot2.PNG)
+![lot3.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot3.PNG)
