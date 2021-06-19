@@ -23,7 +23,7 @@
 
 ## T-Tests on Suspension Coils
 
-
+- The results of t-test for all lots show the mean = 1498.27 and the p-value = 0.06028 which is above our significance level(0.05) so the data is considered normally distributed and we don’t have sufficient evidence to reject the null hypothesis, and we would state that the population mean(1500) and the mean of all three of these manufacturing lots are statistically similar.
 ![T_test_all_lots.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/T_test_all_lots.PNG)
 ![lot1.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot1.PNG)
 ![lot2.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot2.PNG)
