@@ -41,7 +41,7 @@ However, Lot 3 has a mean of 1496.14 and a p-value of 0.04168 which the p-value 
 
 ## Study Design: MechaCar vs Competition
 
-
+There are several features that consumers might be interested when deciding to buy a new car , to compare how MechaCar vehicles perform against vehicles made by other manufacturers, we need to think critically about these metrics. Potential metrics that consumers could find interesting in this study might include cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 
 
