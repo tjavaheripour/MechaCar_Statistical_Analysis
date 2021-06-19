@@ -30,5 +30,8 @@
 -	The result of t-test on lot 1 shows the mean of 1500 and the p-value = 1. The p-value of 1 shows the distribution is not significantly different from the normal distribution.
 
 ![lot1.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot1.PNG)
+
+-	The result of t-test on lot 2 shows the mean of 1500.2 and the p-value = 0.6072. The p-value is greater than 0.05 so we do not have sufficient evidence to reject the null hypothesis, and we would state that the distribution is not significantly different from the normal distribution.
+
 ![lot2.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot2.PNG)
 ![lot3.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot3.PNG)
