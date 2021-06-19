@@ -9,3 +9,12 @@
 •	we'll evaluate the r-squared value of the model to determine if the model sufficiently predicts our dependent variable(mpg).In this case, the r-squared is 0.7149 which means the model would predict mpg about 72% correctly.
 
 ![Dev1.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/Dev1.PNG)
+
+## Summary Statistics on Suspension Coils
+
+
+
+![total_summary.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/total_summary.PNG)
+
+![lot_summary.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.PNG)
+
