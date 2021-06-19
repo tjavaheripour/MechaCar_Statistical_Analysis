@@ -34,4 +34,15 @@
 -	The result of t-test on lot 2 shows the mean of 1500.2 and the p-value = 0.6072. The p-value is greater than 0.05 so we do not have sufficient evidence to reject the null hypothesis, and we would state that the distribution is not significantly different from the normal distribution.
 
 ![lot2.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot2.PNG)
+
+However, Lot 3 has a mean of 1496.14 and a p-value of 0.04168 which the p-value is less than 0.05 so we can reject the null hypothesis and therefore the mean is not equal to the population mean.
+
 ![lot3.PNG](https://github.com/tjavaheripour/MechaCar_Statistical_Analysis/blob/main/images/lot3.PNG)
+
+## Study Design: MechaCar vs Competition
+
+
+
+
+
+
