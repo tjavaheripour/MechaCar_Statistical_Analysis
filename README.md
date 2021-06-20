@@ -43,6 +43,11 @@ However, Lot 3 has a mean of 1496.14 and a p-value of 0.04168 which the p-value 
 
 There are several features that consumers might be interested when deciding to buy a new car , to compare how MechaCar vehicles perform against vehicles made by other manufacturers, we need to think critically about these metrics. Potential metrics that consumers could find interesting in this study might include cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
+In this study I prefer to test how competitively MechaCar are priced in compare to their competition with fuel efficiency
+Null Hypothesis: There is no differences in pricing between MechaCar and its compatitors and have no differences in fuel efficiency in comparison to competitors.
+Alternative Hypothesis: there are statistical differences between the MechaCar and its competitors in pricing and fuel efficiency.
+In this study we will use a two sample t-test to compare the means from the two populations(MechaCar and other manufacture)
+The data for this statistical test that would be needed is the list of selling price and the fuel efficiency of MechaCar and as well as the MechaCar's competitors to compare.
 
 
 
